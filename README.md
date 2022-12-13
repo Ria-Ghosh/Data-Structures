@@ -1,2 +1,2 @@
 # Data-Structures
-Different data structure and its applications
+Different data structures and its applications
